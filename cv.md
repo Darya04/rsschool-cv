@@ -16,4 +16,4 @@
 * Course “HTML&CSS”
 ## English:
 **A2**. 
-*English was the second foreign language at the University. Studied for two years.
+*English was the second foreign language at the University. Studied for two years.*
