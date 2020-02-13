@@ -1,0 +1,13 @@
+body {
+    margin: 0 auto;
+    width:960px;
+}
+.avatar{
+border-radius: 30px;
+ }
+p {
+    font-style:italic;
+}
+span{
+    font-weight:900;
+}
